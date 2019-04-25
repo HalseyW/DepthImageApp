@@ -1,0 +1,6 @@
+framework module Pods_DepthImageAppUITests {
+  umbrella header "Pods-DepthImageAppUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
